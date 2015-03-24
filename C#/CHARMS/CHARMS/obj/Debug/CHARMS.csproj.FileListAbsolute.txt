@@ -1,0 +1,9 @@
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\bin\Debug\CHARMS.exe.config
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\bin\Debug\CHARMS.exe
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\bin\Debug\CHARMS.pdb
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\bin\Debug\HomelandSecurity.xml
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\obj\Debug\CHARMS.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\obj\Debug\CHARMS.exe
+c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\obj\Debug\CHARMS.pdb
+C:\Users\Brandon\Documents\Visual Studio 2012\Projects\CHARMS\CHARMS\bin\Debug\UtilityLibrary.dll
+C:\Users\Brandon\Documents\Visual Studio 2012\Projects\CHARMS\CHARMS\bin\Debug\UtilityLibrary.pdb

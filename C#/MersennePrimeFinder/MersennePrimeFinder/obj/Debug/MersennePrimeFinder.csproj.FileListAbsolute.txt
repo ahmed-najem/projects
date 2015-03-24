@@ -1,0 +1,8 @@
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\bin\Debug\MersennePrimeFinder.exe.config
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\bin\Debug\MersennePrimeFinder.exe
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\bin\Debug\MersennePrimeFinder.pdb
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\bin\Debug\UtilityLibrary.dll
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\bin\Debug\UtilityLibrary.pdb
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\obj\Debug\MersennePrimeFinder.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\obj\Debug\MersennePrimeFinder.exe
+c:\users\brandon\documents\visual studio 2012\Projects\MersennePrimeFinder\MersennePrimeFinder\obj\Debug\MersennePrimeFinder.pdb

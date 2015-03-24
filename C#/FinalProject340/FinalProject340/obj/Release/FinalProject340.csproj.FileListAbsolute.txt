@@ -1,0 +1,6 @@
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Release\FinalProject340.exe.config
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Release\FinalProject340.exe
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Release\FinalProject340.pdb
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Release\FinalProject340.exe
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Release\FinalProject340.pdb
+C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Release\FinalProject340.csprojResolveAssemblyReference.cache

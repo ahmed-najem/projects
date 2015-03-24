@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<!--
+    Project Register (register.htm)
+    CIS-425/78020
+    Fall 2014
+    Brandon Lacquement
+    -->
+<html lang="en">
+    <head>
+        <!-- Meta tag -->
+        <meta charset="utf-8" />
+        <meta name="robots" content="noindex,nofollow" />
+        <!-- ADD REDIRECT META TAG HERE -->
+        <!-- Link tag for CSS -->
+        <link type="text/css" rel="stylesheet" href="../stylesheets/pcss.css" />
+        <!-- JavaScript Tag -->
+        <script type="text/javascript" src="../jscode/a3focus.js"></script>
+        <script type="text/javascript" src="../jscode/msgs.js"></script>
+        <!-- Favicon link -->
+        <link rel="icon" href="images/favicon.png" />
+        <!-- Web Page Title -->
+        <title>PHODAK: Register</title>
+    </head>
+    <body>
+        <div id="header">
+            <p> 
+                <img src="images/header.png" alt="Header!" />
+            </p>
+        </div>
+        <form id="joinform" action="confirm.php" method="post">
+            <p class="fh1">
+                Register
+            </p>
+            <p>
+                <!-- First Name -->
+                <label for ="fname">First Name:</label>
+                <input type="text" id="fname" name="fname" 
+                    required 
+                    autofocus 
+                    pattern="[a-zA-Z-' ]{4,30}"
+                    title="Please enter 4-30 chars, UPPER/lower case and - or ' only"
+                    placeholder="First Name..."
+                    />
+                <br />
+                <!-- Last Name -->
+                <label for ="lname">Last Name:</label>
+                <input type="text" id="lname" name="lname" 
+                    required 
+                    pattern="[a-zA-Z-' ]{4,30}"
+                    title="Please enter 4-30 chars, UPPER/lower case and - or ' only"
+                    placeholder="Last Name..."
+                    />
+                <br />
+                <!-- Email Address -->
+                <label for ="email">Email Address:</label>
+                <input type="email" id="email" name="email" 
+                    required
+                    pattern="[a-z0-9-_$.]+@[a-z0-9-_.]+\.[a-z]{2,20}"
+                    title="Please enter a valid email address."
+                    placeholder="Email..."
+                    />
+                <br />
+                <!-- Password -->
+                <label for ="password">Password:</label>
+                <input type="password" id="password" name="password" 
+                    required
+                    pattern="[a-zA-Z0-9-_!$]{5,15}"
+                    onchange="form.reenter.pattern=this.value;"
+                    title="Please enter 5-15 characters, UPPER/lower case letters, numbers, -, _, !, $ only. No Spaces."
+                    placeholder="Password..."
+                    />
+                <br />
+                <!-- ReEnter -->
+                <label for ="reenter">Re-enter Password:</label>
+                <input type="password" id="reenter" name="reenter" 
+                    required
+                    title="Must match password."
+                    placeholder="Re-Enter Password..."
+                    />
+                <br />
+                <!-- Phone -->
+                <label for ="phone">Phone Number:</label>
+                <input type="text" id="phone" name="phone" 
+                    required
+                    pattern="[0-9]{10,10}"
+                    title="Please enter a valid phone number."
+                    placeholder="Phone..."
+                    />
+                <br />
+                <!-- ZIP -->
+                <label for ="zip">ZIP Code:</label>
+                <input type="text" id="zip" name="zip" 
+                    required
+                    pattern="[0-9]{5,5}"
+                    title="Please enter a valid zip code."
+                    placeholder="ZIP..."
+                    />
+                <br />
+            </p>
+            <p class="submit">
+                <!-- Submit Button -->
+                <input type="submit" value="Sign me up!" />
+                <!-- Reset Button -->
+                <span class="reset">
+                <input type="reset" value="Clear Form!" onclick="history.go(0)"/>
+                </span>
+            </p>
+        </form>
+        <div id="extra_button">
+            <form action="index.php">
+                <input type="submit" value="Back to Login">
+            </form>
+        </div>
+        <div id = "footer">
+            <p>
+                &copy; 2014, Brandon Lacquement
+            </p>
+        </div>
+    </body>
+</html>
