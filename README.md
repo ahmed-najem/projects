@@ -8,11 +8,13 @@ This repository houses several past projects completed during my degree programs
 
 ##Notable Work
 ###Java
-Information goes here.
+Below you will find a description for each section of the Java files found in this repo. This work was done exclusively in Java and written, compiled and tested entirely by hand using Notepad, Java Platform JDK and command prompt. These files were created for CSE 110 Principles of Programming with Java taught by Senior Lecturer Farideh Tadayon-Navabi at the Ira A. Fulton School of Engineering.
 
 File | Focus
 --- | ---
-[Lab 13](Java/Labs/Lab13.java) | 1D and 2D arrays
+[Labs](Java/Labs) | Work done in a lab environment (coding to support lectures)
+[Assignments](Java/Assignments) | Written individually to test knowledge of concepts
+[Other](Java/Other) | Supportinng class files and code written thoughout the semester
 
 ###TSQL
 
