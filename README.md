@@ -17,9 +17,15 @@ File | Focus
 [Other](Java/Other) | Supportinng class files and code written thoughout the semester
 
 ###TSQL
+Info goes here
 
+File | Focus
+--- | ---
+[]() | 
 
 ###C\# 
+Info goes here
+
 File | Focus
 --- | ---
 hello | goodbye
@@ -28,12 +34,16 @@ hello | goodbye
 * MersennePrimeFinder: A console application I made in my spare time that calculates a user-entered number of Mersenne Primes
 
 ###Python
+Info goes here
+
 File | Focus
 --- | ---
 hello | goodbye
 * A simple script that demonstrates basic CRUD functionality using Python 2 and MySQL server
 
 ###Web
+Info goes here
+
 File | Focus
 --- | ---
 hello | goodbye
