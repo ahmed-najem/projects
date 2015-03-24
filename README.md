@@ -7,7 +7,7 @@ This repository houses several past projects completed during my degree program 
 ###Python
 * A simple script that demonstrates basic CRUD functionality using Python 2 and MySQL server
 
-###Web Dev
+###Web
 * An e-commerce web-site with a functioning cart, authentication and registration system using PHP5, CSS3, and HTML5
 * Check out https://github.com/asu-cis-capstone/tooltime to see a current capstone project that our team will be releasing this semester!
 
