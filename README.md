@@ -14,14 +14,15 @@ File | Focus
 --- | ---
 [Labs](Java/Labs) | Work done in a lab environment (coding to support lectures)
 [Assignments](Java/Assignments) | Written individually to test knowledge of concepts
-[Other](Java/Other) | Supportinng class files and code written thoughout the semester
+[Other](Java/Other) | Supporting class files and methods written thoughout the semester
 
 ###TSQL
-Info goes here
+Below  you will find a descripting for each section of the SQL tiles found in this repo. This work was done exclusively in Transact-SQL and written/executed entirely in SQL Server Management Studio. These files were created for CIS 360 Business Database Concepts taught by Clinical Assistant Professor Kathleen Moser at the W.P. Carey School of Business.
 
 File | Focus
 --- | ---
-[]() | 
+[DDL]() | Create, populate and display tables
+[DML]() | Complex select queries
 
 ###C\# 
 Info goes here
