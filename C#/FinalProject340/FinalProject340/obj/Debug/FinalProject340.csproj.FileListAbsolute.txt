@@ -1,6 +1,0 @@
-c:\users\brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Debug\FinalProject340.exe.config
-C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Debug\FinalProject340.exe
-C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\bin\Debug\FinalProject340.pdb
-C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Debug\FinalProject340.csprojResolveAssemblyReference.cache
-C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Debug\FinalProject340.exe
-C:\Users\Brandon\documents\visual studio 2012\Projects\FinalProject340\FinalProject340\obj\Debug\FinalProject340.pdb
