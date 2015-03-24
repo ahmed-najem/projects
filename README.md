@@ -1,7 +1,7 @@
 # Project Showcase
 
 ##Introduction
-This repository houses several past projects completed during my degree program at the W.P. Carey School of Business at Arizona State University. 
+This repository houses several past projects completed during my degree program at Arizona State University..
 
 ##Directory
 ###Python
