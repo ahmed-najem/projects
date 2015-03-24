@@ -7,3 +7,6 @@ c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\obj\Debug\C
 c:\users\brandon\documents\visual studio 2012\Projects\CHARMS\CHARMS\obj\Debug\CHARMS.pdb
 C:\Users\Brandon\Documents\Visual Studio 2012\Projects\CHARMS\CHARMS\bin\Debug\UtilityLibrary.dll
 C:\Users\Brandon\Documents\Visual Studio 2012\Projects\CHARMS\CHARMS\bin\Debug\UtilityLibrary.pdb
+C:\Users\Brandon\Documents\Showcase\projects\C#\CHARMS\CHARMS\bin\Debug\CHARMS.exe.config
+C:\Users\Brandon\Documents\Showcase\projects\C#\CHARMS\CHARMS\obj\Debug\CHARMS.exe
+C:\Users\Brandon\Documents\Showcase\projects\C#\CHARMS\CHARMS\obj\Debug\CHARMS.pdb

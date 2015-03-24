@@ -1,0 +1,21 @@
+/*	Assignment 3	Brandon Lacquement	(Creating, populating, and displaying Enroll)*/
+CREATE TABLE ENROLL (
+CourseID		Char(7)			NOT NULL,
+StuID			Char(5)			NOT NULL,
+Grade			VarChar(2),
+
+PRIMARY KEY (CourseID, StuID),
+FOREIGN KEY (CourseID) REFERENCES COURSES (CourseID),
+FOREIGN KEY (StuID) REFERENCES STUDENTS (StuID)
+);
+
+INSERT INTO ENROLL
+	VALUES('ART103A', 'S1001', 'A-');
+
+INSERT INTO ENROLL
+	VALUES('CSC201A', 'S1015', 'B+');
+
+INSERT INTO ENROLL
+	VALUES('CSC201A', 'S1010', NULL);
+
+SELECT * FROM ENROLL;
