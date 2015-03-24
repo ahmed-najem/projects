@@ -34,6 +34,14 @@ File | Focus
 [MersennePrimeFinder](C#/MersennePrimeFinder/MersennePrimeFinder.sln) | Finds a user specified number of Mersenne Primes
 [Utility.dll](C#/CHARMS/bin/debug/UtilityLibrary.dll) | Utility dll created to support other assignments throughout the semester
 
+###Web
+Below you will find a description for each section of the Web Dev files included in this repo. This work was done in HTML5, CSS3, PHP5, Javascript, MySQL and jQuery. It was written using Notepad++, tested locally with WAMP server, and then transfered via FTP protocol to a web server for live testing. MySQL development was done in phpMyAdmin. The e-commerce site was created as a final project for CIS 425 Electronic Commerce Strategy taught by Database Project Manager Dennis Anderson at the W.P. Carey School of Business. 
+
+File | Focus
+--- | ---
+[e-commerce](Web/e-commerce) | Functioning cart, authentication, registration with MySQL scripting, HTML5, CSS3, PHP, Javascript
+[ToolTime](https://github.com/asu-cis-capstone/tooltime) | Current capstone project that our team will be releasing this semester!
+
 ###Python
 Info goes here
 
@@ -41,12 +49,3 @@ File | Focus
 --- | ---
 hello | goodbye
 * A simple script that demonstrates basic CRUD functionality using Python 2 and MySQL server
-
-###Web
-Info goes here
-
-File | Focus
---- | ---
-hello | goodbye
-* An e-commerce web-site with a functioning cart, authentication and registration system using PHP5, CSS3, and HTML5
-* Check out https://github.com/asu-cis-capstone/tooltime to see a current capstone project that our team will be releasing this semester!
