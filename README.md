@@ -1,7 +1,7 @@
 # Project Showcase
 
 ##Introduction
-This repository houses several past projects completed during my degree programs at Arizona State University.
+This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work.
 
 ###Updates
 03/24/2015: Please note that this repository is currently being developed. Expect constant changes to README.
@@ -17,22 +17,22 @@ File | Focus
 [Other](Java/Other) | Supporting class files and methods written thoughout the semester
 
 ###TSQL
-Below  you will find a descripting for each section of the SQL tiles found in this repo. This work was done exclusively in Transact-SQL and written/executed entirely in SQL Server Management Studio. These files were created for CIS 360 Business Database Concepts taught by Clinical Assistant Professor Kathleen Moser at the W.P. Carey School of Business.
+Below  you will find a description for each section of the SQL files found in this repo. This work was done exclusively in Transact-SQL and written/executed entirely in SQL Server Management Studio. These files were created for CIS 360 Business Database Concepts taught by Clinical Assistant Professor Kathleen Moser at the W.P. Carey School of Business.
 
 File | Focus
 --- | ---
-[DDL]() | Create, populate and display tables
-[DML]() | Complex select queries
+[DDL](TSQL/DDL) | Create, populate and display tables
+[DML](TSQL/DML) | Complex select queries
 
 ###C\# 
-Info goes here
+Below you will find a description for each section of the C# solution files in the repo. This work was done exclusively in C# and was written, compiled and tested using Visual Studio 2010 and 2012. CHARMS was created for CIS 340 Business Information Systems Development I taught by Lecturer Christopher Olsen at the W.P. Carey School of Business. Customer_System was ceated for CIS 345 Business Information Systems Development II taught by Clinical Assistant Professor Altaf Ahmad at the W.P. Carey School of Business.
 
 File | Focus
 --- | ---
-hello | goodbye
-* CHARMS: A "flight management suite" for an airline ran through a command prompt
-* Customer_System: A simplified ordering system ran through a command prompt
-* MersennePrimeFinder: A console application I made in my spare time that calculates a user-entered number of Mersenne Primes
+[CHARMS](C#/CHARMS/CHARMS.sln) | "Air Reporting Management System" that runs in a command prompt
+[Customer_System](C#/Customer_System/FinalProject340.sln) | Commerce functions in a command prompt
+[MersennePrimeFinder](C#/MersennePrimeFinder/MersennePrimeFinder.sln) | Finds a user specified number of Mersenne Primes
+[Utility.dll](C#/CHARMS/bin/debug/UtilityLibrary.dll) | Utility dll created to support other assignments throughout the semester
 
 ###Python
 Info goes here
