@@ -1,7 +1,10 @@
 # Project Showcase
 
 ##Introduction
-This repository houses several past projects completed during my degree programs at Arizona State University..
+This repository houses several past projects completed during my degree programs at Arizona State University.
+
+###Update:
+Please note that this repository is currently being developed. Expect changes to README and the addition of Java projects!
 
 ##Directory
 ###Python
