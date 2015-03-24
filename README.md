@@ -4,7 +4,7 @@
 This repository houses several past projects completed during my degree programs at Arizona State University.
 
 ###Updates
-03/24/2015: Please note that this repository is currently being developed. Expect changes to README and the addition of Java projects and TSQL scripts!
+03/24/2015: Please note that this repository is currently being developed. Expect constant changes to README.
 
 ##Notable Work
 ###Java
