@@ -43,9 +43,8 @@ File | Focus
 [ToolTime](https://github.com/asu-cis-capstone/tooltime) | Current capstone project that our team will be releasing this semester!
 
 ###Python
-Info goes here
+Below you will find a description for the Python files included in this repo. I am currently working to develop my understanding of Python, as I have not used it in my coursework. This initial file serves as a starting point for SQL scripting. This work was written exclsively in Python on Notepad++. It was tested locally using a MySQL server on WAMP and executed through command prompt with the Python 2.7.9 compiler. This script is new and not yet fully debugged. Expect changes to this section as my understanding of Python devleops.
 
 File | Focus
 --- | ---
-hello | goodbye
-* A simple script that demonstrates basic CRUD functionality using Python 2 and MySQL server
+[CRUD.py] (Python/crud.py) | A script that executes CRUD using Python 2, PyMySQL and MySQL server
