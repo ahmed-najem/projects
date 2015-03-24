@@ -1,10 +1,7 @@
 # Project Showcase
 
 ##Introduction
-This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work.
-
-###Updates
-03/24/2015: Please note that this repository is currently being developed. Expect constant changes to README.
+This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work. If you are interested in starting a conversation about my work, please contact me through [GitHub](https://github.com/brlacquement) or [LinkedIn](www.linkedin.com/in/brandonlacquement/en). You can also find the most current version of my resume in [docx](Resume/Resume2015_FINAL.docx) or [pdf](Resume2015_FINAL.pdf).
 
 ##Notable Work
 ###Java
