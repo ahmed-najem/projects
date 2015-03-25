@@ -4,7 +4,7 @@
 This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work. If you are interested in starting a conversation about my work, please contact me through [GitHub](https://github.com/brlacquement) or [LinkedIn](www.linkedin.com/in/brandonlacquement/en). You can also find the most current version of my resume in [docx](Resume/Resume2015_FINAL.docx) or [pdf](Resume2015_FINAL.pdf). Below, you will find a summary of notable work for the following technologies: Java, TSQL, C#, Web Dev and Python.
 
 ##Notable Work
-###Java
+###![alt text](http://www.enukesoftware.com/wp-content/themes/enuke/images/java.png) Java
 Below you will find a description for each section of the Java files found in this repo. This work was done exclusively in Java and written, compiled and tested entirely by hand using Notepad, Java Platform JDK and command prompt. These files were created for CSE 110 Principles of Programming with Java taught by Senior Lecturer Farideh Tadayon-Navabi at the Ira A. Fulton School of Engineering. Assignments are listed chronologically.
 
 File | Focus
