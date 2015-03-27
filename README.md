@@ -2,7 +2,7 @@
 
 ##Introduction
 <img src="https://cloud.githubusercontent.com/assets/10656205/5954367/a5317e24-a753-11e4-96c4-29c001a64856.png" height=206 align="right">
-This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work. If you are interested in starting a conversation about my work, please contact me by phone/email or through [GitHub](https://github.com/brlacquement) or [LinkedIn](www.linkedin.com/in/brandonlacquement/en). You can also find the most current version of my resume in [docx](Resume/Resume2015_FINAL.docx) or [pdf](Resume2015_FINAL.pdf). Below, you will find a summary of notable work for the following technologies: Java, TSQL, C#, Web Dev and Python.
+This repository houses several past projects completed during my degree programs at Arizona State University. All files have been included in their original state as they were submitted to their respective professors in an effort to create continuiity between transcipts and physical work. If you are interested in starting a conversation about my work, please contact me by phone/email, [GitHub](https://github.com/brlacquement) or [LinkedIn](www.linkedin.com/in/brandonlacquement/en). You can also find the most current version of my resume in [docx](Resume/Resume2015_FINAL.docx) or [pdf](Resume2015_FINAL.pdf). Below, you will find a summary of notable work for the following technologies: Java, TSQL, C#, Web Dev and Python.
 
 ##Notable Work
 ###Java ![Java](http://www.enukesoftware.com/wp-content/themes/enuke/images/java.png)
