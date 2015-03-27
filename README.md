@@ -48,4 +48,4 @@ File | Focus
 [CRUD.py] (Python/crud.py) | A script that executes CRUD using Python 2, PyMySQL and MySQL server
 
 ##On the Horizon
-Look here for information on my upcoming project!
+Look here for information on my upcoming projects!
