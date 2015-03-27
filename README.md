@@ -46,3 +46,6 @@ Below you will find a description for the Python files included in this repo. I 
 File | Focus
 --- | ---
 [CRUD.py] (Python/crud.py) | A script that executes CRUD using Python 2, PyMySQL and MySQL server
+
+##On the Horizon
+Look here for information on my upcoming project!
