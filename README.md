@@ -19,8 +19,8 @@ Below  you will find a description for each section of the SQL files found in th
 
 File | Focus
 --- | ---
-[DDL](TSQL/DDL) | Create, populate and display tables
-[DML](TSQL/DML) | Complex select queries
+[DDL](TSQL/DDL) | Create, populate and show tables
+[DML](TSQL/DML) | Select queries
 
 ###C\# ![.NET](https://a6a8g7g5.ssl.hwcdn.net/icons/13/125412/icon.png)
 Below you will find a description for each section of the C# solution files in the repo. This work was done exclusively in C# and was written, compiled and tested using Visual Studio 2010 and 2012. CHARMS was created for CIS 340 Business Information Systems Development I taught by Lecturer Christopher Olsen at the W.P. Carey School of Business. Customer_System was ceated for CIS 345 Business Information Systems Development II taught by Clinical Assistant Professor Altaf Ahmad at the W.P. Carey School of Business.
