@@ -1,4 +1,4 @@
-# Coursework Showcase
+# Project Showcase
 
 ##Introduction
 <img src="https://cloud.githubusercontent.com/assets/10656205/5954367/a5317e24-a753-11e4-96c4-29c001a64856.png" height=206 align="right">
@@ -41,7 +41,7 @@ File | Focus
 [ToolTime](https://github.com/asu-cis-capstone/tooltime) | Current capstone project that our team will be releasing this semester!
 
 ###Python ![Python](http://www.iconattitude.com/icons/open_icon_library/apps/png/32/python2.5.png)
-Below you will find a description for the Python files included in this repo. I am currently working to develop my understanding of Python, as I have not used it in my coursework. This initial file serves as a starting point for SQL scripting. This work was written exclsively in Python on Notepad++. It was tested locally using a MySQL server on WAMP and executed through command prompt with the Python 2.7.9 compiler. This script is new and not yet fully debugged. Expect changes to this section as my understanding of Python devleops.
+Below you will find a description for the Python files included in this repo. I am currently working to develop my understanding of Python, as I have not used it in my coursework. This initial file serves as a starting point for SQL scripting. This work was written exclusively in Python on Notepad++. It was tested locally using a MySQL server on WAMP and executed through command prompt with the Python 2.7.9 compiler. This script is new and not yet fully debugged. Expect changes to this section as my understanding of Python devleops.
 
 File | Focus
 --- | ---
