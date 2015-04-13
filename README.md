@@ -49,4 +49,6 @@ File | Focus
 [Sort] (Python/rabbit_final.py) | Takes a list of strings and returns a sorted list by total value of characters in strings (a=1,...,z=26). Defaults to reverse dictionary if two strings are of equal value.
 
 ##On the Horizon
-Look here for information on my upcoming projects!
+File | Phase | Focus
+--- | ---
+Sca.py |Research| Script with Python 2 and BeautifulSoup that will scrape dice.com for job descriptions, and provide useful information based on keyword analysis.
