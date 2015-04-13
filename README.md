@@ -50,5 +50,5 @@ File | Focus
 
 ##On the Horizon
 File | Phase | Focus
---- | ---
-Sca.py |Research| Script with Python 2 and BeautifulSoup that will scrape dice.com for job descriptions, and provide useful information based on keyword analysis.
+--- | --- | ---
+Sca.py | Research | Script with Python 2 and BeautifulSoup that will scrape dice.com for job descriptions, and provide useful information based on keyword analysis.
