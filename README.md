@@ -47,6 +47,7 @@ File | Focus
 --- | ---
 [Loop] (Python/pirate_final.py) | Takes a list of non-zero integers that reference each other, finds a loop and returns how many elements compose the loop.
 [Sort] (Python/rabbit_final.py) | Takes a list of strings and returns a sorted list by total value of characters in strings (a=1,...,z=26). Defaults to reverse dictionary if two strings are of equal value.
+[Schedule] (Python/zombit_final.py) | Takes a list of requested meeting times [start,end] and returns the maximum number of meetings that can be scheduled without overlaps.
 
 ##On the Horizon
 File | Phase | Focus
